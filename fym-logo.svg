@@ -1,0 +1,24 @@
+<svg width="720" height="260" viewBox="0 0 720 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .fym-mark-stroke { fill: none; stroke: #1B2A4A; stroke-width: 12; stroke-linecap: round; }
+      .fym-mark-accent { fill: #9C7A3C; }
+      .fym-badge { font-family: Verdana, 'Arial Rounded MT Bold', Arial, sans-serif; font-weight: 700; fill: #FBF9F4; }
+      .fym-word { font-family: Verdana, 'Arial Rounded MT Bold', Arial, sans-serif; font-weight: 700; fill: #1B2A4A; }
+      .fym-sub { font-family: Verdana, Arial, sans-serif; font-weight: 400; fill: #9C7A3C; letter-spacing: 0.5px; }
+    </style>
+  </defs>
+
+  <!-- Signature mark: a thick, warm, open ring — a door left ajar, standing for
+       release and openness. The FYM monogram is nested inside it, like a seed
+       within an opening. -->
+  <g transform="translate(78,96)">
+    <path class="fym-mark-stroke" d="M 0,-58 A 58,58 0 1 1 -41,41" />
+    <circle class="fym-mark-accent" cx="41" cy="-41" r="9" />
+    <text x="0" y="9" text-anchor="middle" class="fym-badge" font-size="22">FYM</text>
+  </g>
+
+  <!-- Wordmark: FreeYourMind takes the lead while the brand settles in -->
+  <text x="172" y="106" class="fym-word" font-size="42">FreeYourMind</text>
+  <text x="174" y="140" class="fym-sub" font-size="16">la plus belle aventure du monde</text>
+</svg>
